@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rongxuan.github.io/sitemap.xml
+Sitemap: https://rongxuan134.github.io/rongxuan.github.io//sitemap.xml

@@ -95,9 +95,7 @@ cv:
         summary: "Fluent"
 
     Interests:
-       - name: Skydiving
-       - name: Skiing
-       - name: Philosophy
+      - name: Skydiving · Skiing · Philosophy
     
 
    # Projects:

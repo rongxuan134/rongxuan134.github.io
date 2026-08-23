@@ -1,7 +1,7 @@
 cv:
   name: Rongxuan Zhu
   # label: Scientist
-  email: einstein@example.com
+  email: rongxuan@buffalo.edu
   # location: Princeton, NJ
   image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
@@ -24,7 +24,7 @@ cv:
         studyType: PhD
         start_date: 2026
         end_date: PRESENT
-        # score: ""
+        score: ""
       
 
       - institution: University of Minnesota Twin Cities
@@ -58,7 +58,7 @@ cv:
         
       - company: University of Minnesota Twin Cities
         position: Graduate Research Assistant
-        location: Pasadena, California, US
+        location: Minneapolis, MN, US
         start_date: 2021
         end_date: 2022
 

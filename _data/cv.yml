@@ -78,21 +78,21 @@ cv:
        # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
 
-   Skills:
+    Skills:
       - name: Programming & Databases
         keywords: "Python, R, SQL, PostgreSQL, PostGIS, HTML, JavaScript"
 
       - name: Software & Tools
         keywords: "ArcGIS Pro, ArcGIS Online, QGIS, Git, Jupyter Notebook"
 
-  Languages:
+    Languages:
       - name: Chinese
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-  Interests:
+    Interests:
       - name: Activities
         keywords: "Skydiving, Skiing, Billiards"
 

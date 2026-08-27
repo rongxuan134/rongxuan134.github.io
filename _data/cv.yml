@@ -72,7 +72,8 @@ cv:
 
   
     Awards:
-      - title: Summer Diversity Fellowship, Minnesota Population Center (MPC), University of Minnesota Twin Cities
+      - date: 2021
+        awarder: Summer Diversity Fellowship, Minnesota Population Center (MPC), University of Minnesota Twin Cities
        # awarder: Royal Swedish Academy of Sciences
        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
        # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
@@ -87,7 +88,7 @@ cv:
 
     Languages:
       - name: Chinese
-        summary: "Native speaker"
+        summary: "Native"
 
       - name: English
         summary: "Fluent"

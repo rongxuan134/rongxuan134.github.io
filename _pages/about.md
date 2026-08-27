@@ -25,6 +25,6 @@ social: true # includes social icons at the bottom of the page
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m a PhD student in Geography at the University at Buffalo, advised by [Professor Andrew Crooks](https://www.gisagents.org/). My research interests include GIScience, urban geography, and computational approaches to understanding how urban environments and spatial structures shape human experiences and responses to environmental conditions and events. I received both my Master’s degree in Geographic Information Science and my Bachelor’s degree in Earth Sciences from the University of Minnesota Twin Cities.
+Hi, I’m a PhD student in Geography at the University at Buffalo, advised by [Professor Andrew Crooks](https://www.gisagents.org/). My research interests include GIScience, urban geography, and computational approaches to studying the relationships between people and cities. I am interested in how urban environments and spatial structures shape human activities, experiences, and perceptions, and how geospatial data and computational methods can help us understand these relationships across space and time.
 
-
+I received both my Master’s degree in Geographic Information Science and my Bachelor’s degree in Earth Sciences from the University of Minnesota Twin Cities. Before starting my PhD, I worked as a research assistant at the Institute of Urban Environment, Chinese Academy of Sciences, where I contributed to interdisciplinary research using spatial and quantitative methods.

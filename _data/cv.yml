@@ -72,30 +72,32 @@ cv:
 
   
     Awards:
-      - title: Diversity Fellowship
-        date: 2021
+      - title: Summer Diversity Fellowship, Minnesota Population Center (MPC), University of Minnesota Twin Cities
        # awarder: Royal Swedish Academy of Sciences
        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
        # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
 
-   
-    Skills:
+   Skills:
       - name: Programming & Databases
-        keywords: "Python, R, HTML, JavaScript, PostgreSQL, PostGIS, SQL"
+        keywords: "Python, R, SQL, PostgreSQL, PostGIS, HTML, JavaScript"
 
-      - name: GIS & Spatial Analysis
-        keywords: "ArcGIS Pro, ArcGIS Online, QGIS"
+      - name: Software & Tools
+        keywords: "ArcGIS Pro, ArcGIS Online, QGIS, Git, Jupyter Notebook"
 
-    Languages:
+  Languages:
       - name: Chinese
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Skydiving · Skiing · Philosophy
+  Interests:
+      - name: Activities
+        keywords: "Skydiving, Skiing, Billiards"
+
+      - name: Other Interests
+        keywords: "Philosophy"
     
 
    # Projects:
